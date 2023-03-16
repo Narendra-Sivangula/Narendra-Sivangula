@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=00c7ff&lines=Hi👋+I'm+Narendra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00c7ff&lines=Hi👋+I'm+Narendra)](https://git.io/typing-svg)
 <h3 align="center">Student from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
