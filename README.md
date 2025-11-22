@@ -1,22 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00c7ff&lines=Hi👋+I'm+Narendra)](https://git.io/typing-svg)
-<h3 align="center">Student from India</h3>
+<h3 align="center">DevOps Engineer from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-sivangula&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-sivangula" /> </p>
 
 <p align="left"> <a href="https://twitter.com/s_n_kumar" target="blank"><img src="https://img.shields.io/twitter/follow/s_n_kumar?logo=twitter&style=for-the-badge" alt="s_n_kumar" /></a> </p>
 
-- 🔭 I’m currently Pursuing Graduation in **R.V.R.&J.C COLLEGE OF ENGINEERING**
+- Working -- **Tata Consultancy Services**
+- Experience -- **1.4 Years**
+
+- 🔭 B.Tech -- **R.V.R.&J.C COLLEGE OF ENGINEERING**
 
 - 🌱 I’m Interested in **Playing Volleyball, Video games and Reading books**
 
-- 👯 I’m Currently learning DEVOPS Tools - **Git-Ansible-Docker-Terraform-AWS-Jenkins**
-
-- 🤝 I’m looking for help with **DEVOPS related Project**
-
-- 📫 How to reach me **narendrakumarsivangula@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me **narendrasivangula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
