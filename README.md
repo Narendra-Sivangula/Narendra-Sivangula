@@ -10,12 +10,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra95/)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:narendrasivangula@gmail.com)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,4 +46,8 @@
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories or connect with me.*
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra95/)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:narendrasivangula@gmail.com)
+
+---
